@@ -64,6 +64,7 @@ Visualization: Create informative scatter plots to illustrate cluster groupings
 
 Insight Generation: Analyze the formed clusters to extract business insights and customer segments
 
+
 📈 Sample Insight
 By analyzing the clusters, the following insights may be drawn:
 
