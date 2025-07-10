@@ -1,5 +1,6 @@
 # SCT_TrackCode_2
 📊 Mall Customer Segmentation Using K-Means Clustering
+
 🧩 Project Overview
 This project applies the K-Means Clustering algorithm to segment mall customers based on their purchasing behavior. By uncovering meaningful patterns in customer data, this segmentation enables targeted marketing, personalized engagement, and more strategic business decisions. The analysis reveals distinct customer groups that businesses can leverage to drive growth and optimize customer retention strategies.
 
